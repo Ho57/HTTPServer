@@ -1,0 +1,27 @@
+a)Features in the handout that you have implemented:
+	Stage 1
+	Simple Test
+	Complex Test
+	Concurrent modes:
+		-f
+		-t
+		-p
+	Directory listing.
+	Sorting by name and Date and Size
+	Ascending/Descending
+	CGI/Bin
+	test-env
+	test-cgi
+	JJ
+	Loadable Modules
+	hello.so
+	jj-mod.so
+	Stats
+	Logs
+
+b) Features in the handout that you have not implemented:
+	-
+
+c) Extra features:
+	-
+
